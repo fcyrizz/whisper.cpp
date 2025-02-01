@@ -12,9 +12,6 @@
 /CMakeSettings.json
 /talk-llama.dSYM/
 
-build/
-build-*/
-
 # SPM
 .build/
 .swiftpm
